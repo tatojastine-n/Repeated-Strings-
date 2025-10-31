@@ -1,1 +1,2 @@
 # Repeated-Strings-
+This C# program counts how many times the letter 'a' appears in the first `n` characters of an infinitely repeated string `s`. The `repeatedString` function calculates the number of 'a's in a single repetition, multiplies it by the number of full repetitions within `n`, and adds any additional 'a's from the remaining partial repetition. The `Main` method reads the string and `n` from input, calls the function, and outputs the total count.
